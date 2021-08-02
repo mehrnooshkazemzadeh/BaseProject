@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "prchdHsVtU5+tqpc/3F6gEUvvcO6TKnXCVrgDSiin7hUXVmw/K1DQqq0jplT8qjtNgAHdIPVnAV46usWjL7cAA==",
+  "success": true,
+  "projectFilePath": "D:\\BaseProject\\BaseProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\syncfusion.compression.net.core\\18.3.0.51\\syncfusion.compression.net.core.18.3.0.51.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\syncfusion.licensing\\18.3.0.51\\syncfusion.licensing.18.3.0.51.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\syncfusion.xlsio.net.core\\18.3.0.51\\syncfusion.xlsio.net.core.18.3.0.51.nupkg.sha512"
+  ],
+  "logs": []
+}

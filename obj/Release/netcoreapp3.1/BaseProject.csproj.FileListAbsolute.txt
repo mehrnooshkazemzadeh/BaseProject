@@ -1,0 +1,17 @@
+D:\BaseProject\obj\Release\netcoreapp3.1\BaseProject.AssemblyInfoInputs.cache
+D:\BaseProject\obj\Release\netcoreapp3.1\BaseProject.AssemblyInfo.cs
+D:\BaseProject\obj\Release\netcoreapp3.1\BaseProject.csproj.CoreCompileInputs.cache
+D:\BaseProject\bin\Release\netcoreapp3.1\BaseProject.exe
+D:\BaseProject\bin\Release\netcoreapp3.1\BaseProject.deps.json
+D:\BaseProject\bin\Release\netcoreapp3.1\BaseProject.runtimeconfig.json
+D:\BaseProject\bin\Release\netcoreapp3.1\BaseProject.runtimeconfig.dev.json
+D:\BaseProject\bin\Release\netcoreapp3.1\BaseProject.dll
+D:\BaseProject\bin\Release\netcoreapp3.1\BaseProject.pdb
+D:\BaseProject\bin\Release\netcoreapp3.1\Syncfusion.Compression.Portable.dll
+D:\BaseProject\bin\Release\netcoreapp3.1\Syncfusion.Licensing.dll
+D:\BaseProject\bin\Release\netcoreapp3.1\Syncfusion.XlsIO.Portable.dll
+D:\BaseProject\obj\Release\netcoreapp3.1\BaseProject.csprojAssemblyReference.cache
+D:\BaseProject\obj\Release\netcoreapp3.1\BaseProject.csproj.CopyComplete
+D:\BaseProject\obj\Release\netcoreapp3.1\BaseProject.dll
+D:\BaseProject\obj\Release\netcoreapp3.1\BaseProject.pdb
+D:\BaseProject\obj\Release\netcoreapp3.1\BaseProject.genruntimeconfig.cache
